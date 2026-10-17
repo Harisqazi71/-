@@ -1,4 +1,4 @@
-name: Build DarAlKutub APK
+name: Build DarAlKutub APK 
 
 on:
   workflow_dispatch:
